@@ -1,0 +1,42 @@
+*   commit 025726fcfa34a68ea65c38108609b26a836938ca (HEAD -> main, origin/main)
+|\  Merge: 00d79da e133ebc
+| | Author: ekaterinaevalenko <evalenkokate@yandex.ru>
+| | Date:   Sun Oct 4 18:44:57 2026 +0300
+| | 
+| |     Merge branch feature-b
+| | 
+| * commit e133ebc021379be49344443c70fa908e0a617734 (origin/feature-b, feature-b)
+| | Author: ekaterinaevalenko <evalenkokate@yandex.ru>
+| | Date:   Sun Oct 4 18:40:37 2026 +0300
+| | 
+| |     feature-b: изменить 4-ю строку
+| | 
+| * commit 5704397b822ea990b2e6fb4cc2210bf5d4dde722
+| | Author: ekaterinaevalenko <evalenkokate@yandex.ru>
+| | Date:   Sun Oct 4 18:27:48 2026 +0300
+| | 
+| |     feature-b: добавить содержание 3-ей строки
+| | 
+* | commit 00d79da799ea2c7dd16f843f36c371e0e650fefa
+|/  Author: ekaterinaevalenko <evalenkokate@yandex.ru>
+|   Date:   Sun Oct 4 18:39:02 2026 +0300
+|   
+|       main: изменить 4-ю строку
+| 
+* commit d7fc9781fd3e06de828fd8636e0e4aa2891404c3 (origin/feature-a, feature-a)
+| Author: ekaterinaevalenko <evalenkokate@yandex.ru>
+| Date:   Sun Oct 4 18:25:30 2026 +0300
+| 
+|     feature-a: добавить содержание 4-ой строки
+| 
+* commit 70feb1333269bf9ac61e1ad7883fc9dc4596699c
+| Author: ekaterinaevalenko <evalenkokate@yandex.ru>
+| Date:   Sun Oct 4 18:24:35 2026 +0300
+| 
+|     feature-a: добавить содержание 3-ей строки
+| 
+* commit b6c44d3cfb8bcb9541a111684f939ac332016cbd
+  Author: ekaterinaevalenko <evalenkokate@yandex.ru>
+  Date:   Sun Oct 4 18:22:23 2026 +0300
+  
+      first commit
